@@ -1,0 +1,6 @@
+framework module Pods_pokejob_pokejobUITests {
+  umbrella header "Pods-pokejob-pokejobUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
